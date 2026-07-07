@@ -8,3 +8,17 @@ execute if entity @a[x=34.48,y=-60.00,z=24.47,r=1,hasitem={item=blaze_rod,locati
 ```js
 execute unless entity @a[x=34.48,y=-60.00,z=24.47,r=1,hasitem={item=blaze_rod,location=slot.weapon.mainhand}] run fill 34.53 -60.00 24.47 34.53 -59 24.47 air
 ```
+
+<details>
+
+<summary>📦 Installation</summary>
+
+```bash
+
+npm install
+
+npm start
+
+```
+
+</details>
