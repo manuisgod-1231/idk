@@ -1,5 +1,4 @@
 # Commands for Command_Block.
-## likely Key System for door command.
 <details>
 <summary><strong>likely Key System for door command.</strong></summary>
   
