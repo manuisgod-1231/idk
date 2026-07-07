@@ -1,7 +1,7 @@
 # Commands for Command_Block.
 ## likely Key System for door command.
 <details>
-<summary>## likely Key System for door command.</summary>
+<summary><strong>likely Key System for door command.</strong></summary>
   
 <details>
 <summary>if hold (Item) and on (pos) will replace (Blocks) by (fill,pos1-pos2).</summary>
